@@ -1,0 +1,49 @@
+{
+   "title":"[Shituzhi] Runaway Girl",
+   "description":"",
+   "author":"Shituzhi" "Oniben Katze",
+   "artist":"Shituzhi" "Oniben Katze",
+   "cover":"https://i.imgur.com/X4fsmFs.jpg",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/zQT5Qxm"
+         },
+         "last_updated":1624606143,
+         "title":"Runaway Girl 1",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/MJcB7Dx"
+         },
+         "last_updated":1624606143,
+         "title":"Runaway Girl 2",
+         "volume":"2"
+      },
+      "3":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/dmOHEOC"
+         },
+         "last_updated":1624606143,
+         "title":"Runaway Girl 3",
+         "volume":"3"
+      },
+      "4":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/cTOrrat"
+         },
+         "last_updated":1624606143,
+         "title":"Runaway Girl 4",
+         "volume":"4"
+      },
+      "5":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/LTd0duv"
+         },
+         "last_updated":1624606143,
+         "title":"Runaway Girl Lovey-Dovey All Day",
+         "volume":"5"
+      }
+   }
+}
